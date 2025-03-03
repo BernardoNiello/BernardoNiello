@@ -2,7 +2,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-left: auto; margin-right: auto;">
   <!-- Imagen a la izquierda -->
-  <img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif" width="250px">
+  <img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif" width="150px">
   
   <!-- Texto interactivo a la derecha -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -10,12 +10,11 @@
   </a>
 </div>
 
+## <a href="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif">
+  <picture><img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="50px"></picture>
+</a> **About me**
 
 
-<img src="ENLACE_DEL_GIF" width="250px">
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
