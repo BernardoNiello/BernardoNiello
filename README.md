@@ -1,13 +1,14 @@
-<h1 align="center"><b>Hi , I'm Bernardo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<p align="center">
-  <a <img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif" width="250px">
->
+<h1 align="center"><b>Hi, I'm Bernardo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-left: auto; margin-right: auto;">
+  <!-- Imagen a la izquierda -->
+  <img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif" width="250px">
+  
+  <!-- Texto interactivo a la derecha -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hola,+soy+Bernardo!;Estudiante+de+Desarrollo+de+Software;Aprendiendo+Desarrollo+Web;Siempre+explorando+nuevas+tecnologías!">
   </a>
-</p>
-
-<br>
+</div>
 
 
 
